@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Mujtaba Ali</h1>
-<h3 align="center">Python|Django|SQL|AWS|Linux</h3>
+<h3 align="center">Python| Django| SQL| AWS| Linux</h3>
 
 - 🔭 I’m currently working on **AWS Services**
 
